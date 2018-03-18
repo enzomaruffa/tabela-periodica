@@ -1,2 +1,6 @@
 # tabela-periodica
-Tabela periódica
+
+Tabela periódica para a moça de Ciências Exatas
+
+
+![](images tabela.jpeg?raw=true)

@@ -1,0 +1,104 @@
+.tabela__titulo {
+	width: 100%;
+}
+
+.tabela {
+	width: 1320px; /*  18*(largura do elemento + margem) + 60 do padding da row */
+}
+
+.numero_coluna {
+	float-left;
+	width: 69px; /* largura do elemento */
+	margin-right: 1px;
+}
+
+.numero_coluna--meio {
+	height:99px;
+	padding-top: 70px;
+}
+
+.coluna__titulo {
+	font-size: 1em;
+	font-weight: bold;
+	margin: 0px;
+}
+
+.coluna__titulo--roman {
+	margin: 0px;
+	font-size: 0.6em;
+}
+
+.elemento {
+	height:99px;
+	width:69px;
+	margin-bottom: 1px;
+	margin-left: 0px;
+	margin-right: 1px;
+	margin-top: 0px;
+	border-radius: 5px;
+	float:left;
+}
+
+.elemento--verde-claro {
+	background-color: lime;
+}
+
+.elemento--azul {
+	background-color: blue;
+}
+
+.elemento--amarelo {
+	background-color: yellow;
+}
+
+.elemento--laranja {
+	background-color: orange;
+}
+
+.elemento--verde {
+	background-color: green;
+}
+
+.elemento--ciano {
+	background-color: cyan;
+}
+
+.text--white {
+	color:white;
+}
+
+.elemento__num-atom {
+	margin-top: 1px;
+	margin-bottom: 1px; 
+}
+
+.elemento__sigla {
+	margin-top: 1px;
+	margin-bottom: 1px; 
+}
+
+.elemento__nome {
+	margin-top: 1px;
+	margin-bottom: 1px; 
+}
+
+.elemento__massa {
+	margin-top: 1px;
+	margin-bottom: 1px; 
+}
+
+.float-right {
+	float:right;
+}
+
+.float-left {
+	float:left;
+}
+
+.m-1120-l {
+	margin-left: 1120px;
+}
+
+.m-700-l {
+	margin-left: 700px;
+}
