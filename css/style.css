@@ -40,15 +40,15 @@
 }
 
 .elemento--verde-claro {
-	background-color: lime;
+	background-color: #9ACD32;
 }
 
 .elemento--azul {
-	background-color: blue;
+	background-color: #1E90FF;
 }
 
 .elemento--amarelo {
-	background-color: yellow;
+	background-color: #FFD700;
 }
 
 .elemento--laranja {
@@ -56,15 +56,39 @@
 }
 
 .elemento--verde {
-	background-color: green;
+	background-color: #3CB371;
 }
 
 .elemento--ciano {
 	background-color: cyan;
 }
 
+.elemento--azul-royal {
+	background-color: #4169E1;
+}
+
+.elemento--rosa {
+	background-color: #F08080;
+}
+
+.elemento--violeta {
+	background-color: #7B68EE;
+}
+
+.elemento--coral {
+	background-color: #FF7F50;
+}
+
 .text--white {
 	color:white;
+}
+
+.text--red {
+	color:red;
+}
+
+.text--blue {
+	color:blue;
 }
 
 .elemento__num-atom {
@@ -95,10 +119,23 @@
 	float:left;
 }
 
+.titulos_zero-linha {
+	position: absolute;
+	margin-top: 70px;
+}
+
 .m-1120-l {
 	margin-left: 1120px;
 }
 
 .m-700-l {
 	margin-left: 700px;
+}
+
+.m-140-l {
+	margin-left: 140px;
+}
+
+.m-210-l {
+	margin-left: 210px;
 }
