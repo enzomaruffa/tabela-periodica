@@ -52,7 +52,7 @@
 }
 
 .elemento--laranja {
-	background-color: orange;
+	background-color: #FFA500;
 }
 
 .elemento--verde {
@@ -60,23 +60,23 @@
 }
 
 .elemento--ciano {
-	background-color: cyan;
+	background-color: #48D1CC;
 }
 
-.elemento--azul-royal {
-	background-color: #4169E1;
+.elemento--verde-mar{
+	background-color: #8FBC8F;
 }
 
 .elemento--rosa {
 	background-color: #F08080;
 }
 
-.elemento--violeta {
-	background-color: #7B68EE;
+.elemento--rosa-claro {
+	background-color: #FFC0CB;
 }
 
-.elemento--coral {
-	background-color: #FF7F50;
+.elemento--pessego {
+	background-color: #ffc999;
 }
 
 .text--white {
@@ -119,9 +119,10 @@
 	float:left;
 }
 
-.titulos_zero-linha {
-	position: absolute;
-	margin-top: 70px;
+.img-legenda {
+	padding: 50px;
+	margin-left: 90px;
+
 }
 
 .m-1120-l {
