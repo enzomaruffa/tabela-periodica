@@ -139,3 +139,32 @@
 .m-210-l {
 	margin-left: 210px;
 }
+
+.modal {
+	margin:0 auto;
+	display:table;
+	position: absolute;
+	left: 0;
+	right:0;
+	top: 30%; 
+	-webkit-transform:translateY(-50%);
+	-moz-transform:translateY(-50%);
+	-ms-transform:translateY(-50%);
+	-o-transform:translateY(-50%);
+	transform:translateY(-50%);
+
+	background-color: white;
+	margin-top: 200px;
+	width: 40vw;
+	height: 500px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.modal__image {
+
+}
+
+.modal__button {
+	margin-top: 10px;
+}
