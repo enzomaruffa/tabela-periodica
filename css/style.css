@@ -106,6 +106,16 @@
 	margin-bottom: 1px; 
 }
 
+.small-font {
+	font-size: 0.8em;
+	margin-bottom: 4px;
+}
+
+.medium-font {
+	font-size: 0.9em;
+	margin-bottom: 2px;
+}
+
 .elemento__massa {
 	margin-top: 1px;
 	margin-bottom: 1px; 
@@ -155,8 +165,8 @@
 	transform:translateY(-50%);
 
 	background-color: white;
-	margin-top: 200px;
-	width: 40vw;
+	margin-top: 300px;
+	width: 62vw;
 	height: 500px;
 	border-radius: 20px;
 	text-align: center;
