@@ -173,7 +173,8 @@
 }
 
 .modal__image {
-
+	max-width: 62vw;
+	max-height: 45vw;
 }
 
 .modal__button {
